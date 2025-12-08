@@ -3,9 +3,9 @@ import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { RotatingText } from "./RotatingText";
 import { useState, useEffect } from "react";
 import { motion } from "motion/react";
-import heroPic1 from "./assets/hero2.jpg";
+import heroPic1 from "./assets/hero3.jpg";
 import heroPic2 from "./assets/img5.jpg";
-import heroPic3 from "./assets/img6.jpg";
+import heroPic3 from "./assets/hero2.jpg";
 
 
 export function Hero() {
@@ -90,7 +90,7 @@ export function Hero() {
     }}
     className="drop-shadow-lg"
   >
-    Come, see your child's foundation for future.
+    <i>Come, see your child's foundation for future.</i>
   </motion.span>
 </motion.p>
 

@@ -21,7 +21,7 @@ export function Programs() {
   {
     title: "Playgroup",
     age: "2-3 years",
-    schedule: "Mon-Fri, 9:00 AM - 12:00 PM",
+    schedule: "Mon-Fri, 9:00 AM - 1:00 PM",
     image:playgroupImg,
     description: "A fun-filled introduction to school life, where little ones can explore, play, and make friends in a safe and engaging environment.",
     highlights: ["Social interaction", "Sensory exploration", "Creative play", "Music & movement"]
@@ -30,7 +30,7 @@ export function Programs() {
   {
     title: "Pre-Nursery",
     age: "3-4 years",
-    schedule: "Mon-Fri, 9:00 AM - 2:00 PM",
+    schedule: "Mon-Fri, 9:00 AM - 1:00 PM",
     image: preNurseryImg,
     description: "A comprehensive program that integrates academic, creative, and thematic concepts to lay a strong foundation for future success.",
     highlights: ["Academic foundations", "Creative activities", "Theme-based learning", "Social-emotional growth"]
@@ -40,7 +40,7 @@ export function Programs() {
   {
     title: "Kindergarten (LKG + UKG)",
     age: "4-6 years",
-    schedule: "Mon-Fri, 8:30 AM - 3:00 PM",
+    schedule: "Mon-Fri, 9:00 AM - 1:00 PM",
     image: kgImg,
     description: "A combined Kindergarten program focusing on academic readiness, creativity, confidence building, and foundational skills for formal schooling.",
     highlights: [

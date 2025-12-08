@@ -224,7 +224,7 @@ export function Curriculum() {
               }
             }}
           >
-            <p className="text-lg">🎓 Empowering children to become active learners, confident communicators, and responsible global citizens</p>
+            <p className="text-lg">🎓Teach Children How They Should Live And They Will Remember All Their Life -King Solomon</p>
           </motion.div>
         </motion.div>
       </div>

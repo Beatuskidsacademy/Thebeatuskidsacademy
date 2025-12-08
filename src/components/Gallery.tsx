@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { Play, X, Calendar, MapPin } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import img1 from "../components/assets/hero1.jpg";
+import img1 from "../components/assets/img1.jpg";
 import img2 from "../components/assets/img2.jpg";
 import img3 from "../components/assets/img3.jpg";
 import img4 from "../components/assets/imgg4.jpg";

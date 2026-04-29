@@ -39,7 +39,7 @@ export function Footer() {
           <div>
             <h4 className="mb-4">Contact Info</h4>
             <address className="space-y-2 text-sm text-gray-400 not-italic">
-              <p>BDA layout 2nd cross, HAL 3rd stage, murugeshpalaya near carrymart</p>
+              <p>No 2331, 2nd cross, BDA Layout, Jeevan Bima Nagar, HAL 3rd Stage,</p>
               <p>Bengaluru, Karnataka 560017</p>
               <p><a href="tel:8092424599" className="hover:text-blue-400 transition-colors">8092424599</a>, <a href="tel:8050730719" className="hover:text-blue-400 transition-colors">8050730719</a></p>
               <p><a href="mailto:thebeatuskidsacademy22@gmail.com" className="hover:text-blue-400 transition-colors">thebeatuskidsacademy22@gmail.com</a></p>

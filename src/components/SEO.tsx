@@ -31,7 +31,7 @@ export function SEO({
       "postalCode": "560017",
       "addressCountry": "IN"
     },
-    "geo": { "@type": "GeoCoordinates", "latitude": 12.9716, "longitude": 77.5946 },
+    "geo": { "@type": "GeoCoordinates", "latitude": 12.9681, "longitude": 77.6519 },
     "url": canonicalUrl,
     "telephone": "+91-8092424599, +91-8050730719",
     "priceRange": "$$",

@@ -58,7 +58,7 @@ const preschoolLng = 77.6577;
 
   // Correct real address
   const addressString =
-    "No 2331, 2nd cross, BDA Layout, Jeevan Bima Nagar, HAL 3rd Stage, Bangalore - 560017 Landmark: Near Abdul Kalam Statue";
+    "No 2336, 2nd cross, BDA Layout, Jeevan Bima Nagar, HAL 3rd Stage, Bangalore - 560017 Landmark: Near Abdul Kalam Statue";
 
   // 100% accurate embed (Google cannot modify the address)
   const embedSrc = `https://www.google.com/maps?q=${preschoolLat},${preschoolLng}&z=18&output=embed`;
